@@ -25,11 +25,9 @@
 * 서비스 특징  
   웹캠과 WebRTC 기술을 활용해 비대면으로도 함께 있는 것처럼 영상 찍기  
    
-* UCC 영상  
-![UCC 영상 링크](/uploads/ea3f3a1222f0927cfb6872d9e616ade8/진짜최종아마도.mp4){: width="90%" height="90%"}  
-  
-* 시연 영상  
-![시연영상 링크](/uploads/3d4fff544d8ff32eee055742c696842e/시연영상.mp4){: width="90%" height="90%"}  
+* [UCC 영상, 시연 영상](https://pattern-ounce-358.notion.site/d63b8f36c8664fe3856c11dce39c44a4)
+  영상은 링크로 참고해주세요.  
+
     
   
 # ✨기획 배경
