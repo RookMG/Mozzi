@@ -65,30 +65,30 @@
     
 # 시연 설명
 ### 메인 페이지
-![메인페이지](/uploads/1c190780d77addc424f8b4e2ad6ee90e/image.png){: width="70%" height="70%"}  
+<img width="1511" alt="image" src="https://github.com/RookMG/Mozzi/assets/56148069/756ec810-bd05-42e5-a3e2-d5193e2227c5">
 - 로그인 된 사용자는 부스 생성하기를 클릭하여  새로운 부스를 생성할 수 있습니다.
 - 공유코드를 알고있다면 부스 참가하기를 클릭하여 생성된 부스로 참가할 수 있습니다.
 
 ### 촬영 준비 페이지
-![촬영준비](/uploads/89ec4c77e2b96dffb0fbfb634e8fdd44/촬영준비.gif)  
+![촬영준비](https://github.com/RookMG/Mozzi/assets/56148069/ce65a3f9-fbbb-46a2-9686-75ad6698b5c2)
 - 부스 화면에서는 촬영에 사용할 원하는 프레임을 선택할 수 있습니다.
 - 개인 설정 기능을 사용하여 카메라 회전, 크기 조절, 마이크/비디오 on&off가 가능합니다.
 - 채팅 기능을 사용하여 마이크가 되지 않는 사용자와도 대화를 할 수 있습니다.
 
 ### 촬영 페이지
-![촬영중](/uploads/63ffab7cb2e690b2965309765d2b0be6/촬영중.gif)  
+![촬영중](https://github.com/RookMG/Mozzi/assets/56148069/b1178fe7-6a1c-4699-8ca9-1b9279c394e8)
 - 실제 촬영이 진행 될 배경을 선택하거나 원하는 배경을 업로드하여 사용할 수 있습니다.  
 - 카메라 소스의 위치, 크기를 마우스를 이용해 조절 할 수 있습니다.
 - 유저 목록의 순서를 바꾸어 영상에 표시되는 사용자들의 위치를 변경할 수 있습니다.
 
 ### 편집 및 저장 페이지
-![촬영마무리](/uploads/8196b2cbc825c541ed40c4d28ac3736f/촬영마무리.gif)  
+![촬영마무리](https://github.com/RookMG/Mozzi/assets/56148069/83a28a47-fd1f-41ab-9a7f-4ca824e77ee9)
 - 촬영한 클립들을 클릭이나 드래그하여 프레임을 편집할 수 있습니다.
 - 완성한 클립과 촬영한 개별 클립들을 webm, mp4, gif의 형태로 저장할 수 있습니다.
 - 로그인한 참가자의 경우 제목을 지정하여 마이페이지에 등록할 수 있습니다. 
 
 ### 커뮤니티
-![커뮤니티](/uploads/ce952c558ab13c4bdd793c4a4d9eb315/커뮤니티.gif)
+![커뮤니티](https://github.com/RookMG/Mozzi/assets/56148069/f022ec68-0089-4252-875d-93b1bb3fb5ac)
 - 촬영한 모찌롤들을 커뮤니티에 게시할 수 있다.
 - 다양한 사람들이 찍은 모찌롤들을 보고 다른 아이디어를 얻을 수 있다.
 - 좋아요/시간 순으로 모찌롤 게시물들을 볼 수 있다.
@@ -97,16 +97,16 @@
   
 # 💁 설계
 ### [🧱 서비스아키텍쳐](https://www.notion.so/4a0a6b88d9e441058dc0e8bcd2995434)  
-![image](/uploads/895d2030b617bf67da336ae318e0a609/image.png){: width="70%" height="70%"}  
-  
+<img width="1043" alt="image" src="https://github.com/RookMG/Mozzi/assets/56148069/b9f29210-4f56-4436-a415-5d7422f5b031">
+
 ### [📱 화면흐름도](https://www.notion.so/0528422cb76b41e686f20c8e7e8a4294)  
-![image](/uploads/47d85dcc0ba81755f8be90a293d60725/image.png){: width="50%" height="50%"}  
+<img width="470" alt="image" src="https://github.com/RookMG/Mozzi/assets/56148069/d8449e25-d514-4179-89c8-f2cc74092581">
   
 ### [🎩 와이어프레임](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGsUUmt9HyBKVr3m8NPzqdP%2FInsaengClip%3Ftype%3Ddesign%26mode%3Ddesign%26t%3D0E7AlPhWhJF6ljF7-0)  
-![image](/uploads/64eb452c3da4edbcc19ac2731ef36cd8/image.png){: width="70%" height="70%"}  
-  
+![image](https://github.com/RookMG/Mozzi/assets/56148069/d1c94a01-0dbb-4439-a5a6-4c932c8afb08)
+
 ### [🎨 ERD](https://www.notion.so/ERD-8f884a4d995349e38206cfe4396cc81a)  
-![image](/uploads/6d6913b81c22fabfd64088bf08274916/image.png){: width="70%" height="70%"}  
+![image](https://github.com/RookMG/Mozzi/assets/56148069/7e182af2-5b6f-4bfe-824d-84c6cee0fb98)
   
 ### [📬 API 명세서](https://www.notion.so/adf01362ac67439c8486bdecc2f2862a?v=fe04bea7894e40c6a50a95fc4c274b65)  
 명세서는 링크로 참고해주세요.  
