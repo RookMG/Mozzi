@@ -10,7 +10,7 @@
   
   
 # 👨‍👩‍👧‍👦 팀원 소개
-- [곽민규](https://github.com/RookMG) : Frontend / Leader  
+- [곽민규](https://github.com/RookMG) : Frontend&Backend / Leader  
 - [김민정](https://github.com/kimminjeong05) : Backend / Backend Leader  
 - [박준홍](https://github.com/ssumthingood) : Frontend / Frontend Leader  
 - [유창재](https://github.com/zzangjae) : Backend  
